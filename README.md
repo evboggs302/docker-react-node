@@ -1,5 +1,6 @@
 # docker-react-node
 A scaffolding for dockerizing react and node
+https://www.youtube.com/watch?v=iVV5aka75Ks
 
 ### Usage
 *Must have Docker installed
